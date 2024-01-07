@@ -17,4 +17,3 @@ mail($to, $subject, $message, $headers);
 
 echo "Email sent successfully.";
 ?>
-
